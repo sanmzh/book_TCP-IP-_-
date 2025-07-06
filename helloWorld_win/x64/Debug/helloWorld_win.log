@@ -1,0 +1,4 @@
+﻿  hello_client_win.c
+  hello_server_win.c
+D:\2025\TCPIP\helloWorld_win\hello_client_win.c(30,29): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  正在生成代码...
